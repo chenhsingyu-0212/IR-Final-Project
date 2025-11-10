@@ -159,10 +159,10 @@ All experiments output JSON files with unified structure:
 ## Inference
 
 只計算並輸出到終端
-```python evaluate_em_f1.py results.json```
+```python inference.py results.json```
 
 計算並存成新檔
-```python evaluate_em_f1.py results.json --output_file results_with_scores.json```
+```python inference.py results.json --output_file results_with_scores.json```
 
 
 ## Configuration
