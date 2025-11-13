@@ -1,0 +1,171 @@
+{
+  "results": [
+    {
+      "question": "Tachu Naito was the father of earthquake-proof design, and built many broadcasting and observation towers, including what communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan?",
+      "gold_answer": "Tokyo Tower",
+      "predicted_answer": "Tokyo Tower",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Tachū Naitō - Wikipedia: Tachū Naitō - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Pages for logged out editors learn more Contributions Talk Contents move to sidebar hide (Top) 1 Biography 2 Gallery 3 Notes 4 References 5 Extern...",
+        "Tachu Naito (June 12, 1886 — August 25, 1970), Japanese architect ...: Tachu Naito (June 12, 1886 — August 25, 1970), Japanese architect, educator | World Biographical Encyclopedia Home Log In Once logged in, you can add biography in the database Directories Newly added Create Biography Back to Profile Tachu Naito architect educator June 12, 1886 (age 84) Yamanashi, Japan Tachu Naito was appointed as an instructor at Waseda University and became a professor in 1913 and concurrently a member of the Engineering Institute. In 1916, he went to America as an internation...",
+        "Earthquake-Resistant Design as Proven by the Great Kanto Earthquake: Earthquake-Resistant Design as Proven by the Great Kanto Earthquake | The Daibiru-Honkan Building | Revisiting the 12 Challenges of Daibiru | Daibiru: 100 Years of History Website Daibiru: 100 Years of History Welcome Page Revisiting the 12 Challenges of Daibiru A 100-Year Journey Read Our History JA EN Open menu Top Daibiru: 100 Years of History Welcome Page Trajectory Revisiting the 12 Challenges of Daibiru 100 Years A 100-Year Journey History Read Our History JA EN 01 1925 Osaka The Daibiru-H..."
+      ],
+      "initial_time_sec": 15.137829452054575,
+      "rag_time_sec": 5.546436447883025,
+      "total_time_sec": 20.6842658999376
+    },
+    {
+      "question": "Interstate 80 runs from San Francisco, California to which county of New Jersey?",
+      "gold_answer": "Bergen County",
+      "predicted_answer": "Teaneck County",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Interstate 80 - Wikipedia: Interstate 80 - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Route description Toggle Route description subsection 1.1 California 1.2 Nevada 1.3 Utah 1.4 Wyoming 1.5 N...",
+        "Interstate 80 – IBAHM: IBAHM – an Interactive Bay Area Highway Map IBAHM. org My saved exits All highways All locations Random highway Random location Random exit A guide to IBAHM A guide to highways Contact us Privacy Policy © 2025 Ethan Yim . Map data from OpenStreetMap . Built with Next.js and Leaflet . Powered by Vercel . ⋯ IBAHM v 0.4 . Filters On highway: hwy: In location: in: Exit name: name: Exit number: exit: Highway junctions Airports Bridges Show results Viewing highway/[id] Not found This page was not foun...",
+        "Interstate 80 Map - USA Highways and Routes - Maps of World: Interstate 80 Map - USA Highways and Routes US Interstate 80 Map Buy Printed Map Buy Digital Map Customize Email JPG Print Get Custom Mapping Quote at [email protected] Disclaimer × Disclaimer : All efforts have been made to make this image accurate. However MapSherpa, Inc, its directors and employees do not own any responsibility for the correctness or authenticity of the same. US Interstate Map The Map depicts US Interstate 80 (I-80) route from San Francisco, California, to Teaneck, New Jersey..."
+      ],
+      "initial_time_sec": 10.384798845974728,
+      "rag_time_sec": 6.010016936110333,
+      "total_time_sec": 16.39481578208506
+    },
+    {
+      "question": "What is the name of the city where English Rock band Elbow produced 'Leaders of the Free World' and is also where the city of Salford is located?",
+      "gold_answer": "Greater Manchester",
+      "predicted_answer": "Salford, England",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Elbow ( band ) - Wikipedia: Elbow (band) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 1997–2001: Formation and first EPs 1.2 2001–2004: Asleep in the Back ...",
+        "The 20 The Most Dangerous Cities In Europe... | WaytoStay: The 20 The Most Dangerous Cities In Europe (2025 GUIDE) | WaytoStay Skip to content Menu Europe Austria France Greece Iceland Ireland Italy Spain United Kingdom North America Puerto Rico United States South America Peru Uruguay Africa Asia China Indonesia Japan Oceania Australia New Zealand Guides Europe The 20 The Most Dangerous Cities In Europe (2025 GUIDE) Written By: Jade Poleon Disclosure: WayToStay is reader-supported. If you buy a product we link to, we may earn a commission. Learn More B...",
+        "My Location Now - Where Am I?: My Location Now - Where Am I? English EN Close menu Home Blog EN English FR Français IT Italiano DE Deutsch PT Português ES Español PL Polski RU Русский ID Bahasa Indonesia AR العربية TH ไทย VI Tiếng Việt TR Türkçe UK Українська NL Nederlands KO 한국어 BN বাংলা HI हिन्दी JA 日本語 My Location Now The My Location Now tool identifies your exact location on a map using your device’s GPS. It is also capable of identifying your approximate location through different methods. Find your location instantly wi..."
+      ],
+      "initial_time_sec": 8.506855299929157,
+      "rag_time_sec": 7.007985393982381,
+      "total_time_sec": 15.514840693911538
+    },
+    {
+      "question": "Where was the theme park directed by Nicholas William Robert Thompson that won best theme park in the United Kingdom and the ninth best park in Europe by the Travelers' choice awards located?",
+      "gold_answer": "Fylde coast in Blackpool, Lancashire, England.",
+      "predicted_answer": "Thorpe Park is the theme park directed by Nicholas William Robert Thompson that won best theme park in the United Kingdom and the ninth best park in Europe by the Travelers' choice awards. It is located in Chertsey, Surrey, England.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Nick Park - Wikipedia: Nick Park - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Early life and education 2 Career 3 Personal life 4 Influences 5 Works Toggle Works subsection 5.1 Feature fil...",
+        "Thorpe Park - Coasterpedia - The Amusement Ride Wiki: Thorpe Park - Coasterpedia - The Amusement Ride Wiki Toggle search Search Powered by Elasticsearch Select item ↑ ↓ Open search / Exit search Esc Toggle menu 20.9K 21.8K 4.5K 354.2K Coasterpedia Main page Random page Help Style guide Nearby pages Upload photos Portals World records Coaster types Ride types Water slide types Maps Interaction Create an article Recent changes Updates Discord channel Donate Toggle preferences menu Notifications Toggle personal menu Not logged in Your IP address will ...",
+        "The 6 Best Documentaries About Theme Parks - Documentarytube.com: The 6 Best Documentaries About Theme Parks - Documentarytube.com All Documentaries Best Of Docs Search for: Search Button The 6 Best Documentaries About Theme Parks Oct 8, 2023 | Best Of , Social Ready to take a deep dive into the world of theme parks? Look no further, because we have compiled a list of the best documentaries that will give you an inside look at these magical places. From the history and creation of iconic rides to the behind-the-scenes magic that makes them come to life, these ..."
+      ],
+      "initial_time_sec": 9.415414858143777,
+      "rag_time_sec": 47.547688647173345,
+      "total_time_sec": 56.96310350531712
+    },
+    {
+      "question": "Licensed to Kill and Stations of the Elevated are both what?",
+      "gold_answer": "documentary",
+      "predicted_answer": "They are both novels.\n\nExplanation:\n\nLicensed to Kill is a novel by John Gardner, and Stations of the Elevated is a novel by Amiri Baraka. Both novels are works of fiction, and they are not non-fiction or poetry. Therefore, they are both novels.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "LICENSED | English meaning - Cambridge Dictionary: LICENSED | English meaning - Cambridge Dictionary Dictionary Translate Grammar Thesaurus +Plus Cambridge Dictionary +Plus Games Cambridge Dictionary +Plus My profile +Plus help Log out Cambridge Dictionary +Plus My profile +Plus help Log out Log in / Sign up English (UK) English Meaning of licensed in English licensed adjective uk Your browser doesn't support HTML5 audio / ˈlaɪ.s ə nst / us Your browser doesn't support HTML5 audio / ˈlaɪ.s ə nst / Add to word list Add to word list having a licen...",
+        "LICENSED Definition & Meaning - Merriam-Webster: LICENSED Definition & Meaning - Merriam-Webster Menu Toggle Merriam-Webster Logo Chatbot Chatbot Games Word of the Day Grammar Word Finder Slang New Newsletters Wordplay Rhymes Thesaurus Join MWU More Games Word of the Day Grammar Wordplay Slang Rhymes Word Finder Newsletters New Thesaurus Join MWU Shop Books Merch Log In Username My Words Recents Account Log Out Est. 1828 Dictionary Definition Definition Example Sentences Word History Phrases Containing Rhymes Entries Near Cite this Entry Citat...",
+        "licensed adjective - Definition, pictures, pronunciation and usage ...: licensed adjective - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner's Dictionary at OxfordLearnersDictionaries.com Oxford logo Toggle navigation Redeem Upgrade Help Sign in Dictionaries Dictionaries home English American English Academic Collocations German-English Grammar Grammar home Practical English Usage Learn & Practise Grammar (Beta) Word Lists Word Lists home My Word Lists Topics Recent additions Resources Resources home Text Checker Sign in Dictionaries Di..."
+      ],
+      "initial_time_sec": 6.4321392679121345,
+      "rag_time_sec": 62.0496430080384,
+      "total_time_sec": 68.48178227595054
+    },
+    {
+      "question": "Molini di Triora is a municipality in the italian region located in which part of Italy ?",
+      "gold_answer": "north-western Italy",
+      "predicted_answer": "Liguria",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Wikipedia Molini di Triora - Wikipedia: Molini di Triora - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Demographic evolution 2 Climate 3 Persons linked to Molini 4 References 5 External links Toggle the tab...",
+        "Wikipedia Triora - Wikipedia: Triora - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Culture 2 Demographic evolution 3 John of Triora 4 Francesco Moraldo from Creppo 5 Twin towns — sister cities 6 S...",
+        "Discoveritalianriviera Triora Travel Guide – Discover Italian Riviera: Triora Travel Guide – Discover Italian Riviera Skip to content About Italian Riviera Menu Toggle col Menu Toggle Cuisine Getting Here History Landmarks col Menu Toggle Where to Stay News Our Story Genoa Menu Toggle col Menu Toggle Genoa Hotels Genoa Things to Do Genoa Restaurants col Menu Toggle Cristoforo Colombo Airport Genoa Beaches Genoa Cruise Port Cinque Terre Menu Toggle col1 Menu Toggle Cinque Terre Hotels Cinque Terre Things to Do Cinque Terre Restaurants Monterosso col2 Menu Toggle Ver..."
+      ],
+      "initial_time_sec": 8.868151275906712,
+      "rag_time_sec": 6.9677087150048465,
+      "total_time_sec": 15.835859990911558
+    },
+    {
+      "question": "The Congress of Afrikan people which later became the Revolutionary Communist League was lead by an African-American writer who recieved the PAN Open Book Award in 2008 for what?",
+      "gold_answer": "Tales of the Out and the Gone",
+      "predicted_answer": "The African-American writer who led the Congress of Afrikan People and later the Revolutionary Communist League was Amiri Baraka. He received the PEN Open Book Award in 2008 for his book \"The System of Dante's Hell.\"",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Congress of Afrikan People - Wikipedia: Congress of Afrikan People - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 References 2 External links Toggle the table of contents Congress of Afrikan People Add langu...",
+        "League of Revolutionary Struggle (Marxist-Leninist) - Wikipedia: League of Revolutionary Struggle (Marxist–Leninist) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History of Communism in the US 2 Origins Toggle Origins subsection 2...",
+        "History of the Congress of Afrikan People - Marxists Internet Archive: History of the Congress of Afrikan People Encyclopedia of Anti-Revisionism On-Line Revolutionary Communist League (Marxist-Leninist-Mao Tse Tung Thought) History of the Congress of Afrikan People First Published: Unity and Struggle, Vol. V, No. 6, June 1976. Transcription, Editing and Markup: Paul Saba Copyright: This work is in the Public Domain under the Creative Commons Common Deed . You can freely copy, distribute and display this work; as well as make derivative and commercial works. Please..."
+      ],
+      "initial_time_sec": 8.07946561719291,
+      "rag_time_sec": 43.28551515284926,
+      "total_time_sec": 51.364980770042166
+    },
+    {
+      "question": "Who is the former cricket player on the cast of the show Cannonball?",
+      "gold_answer": "Andrew \"Freddie\" Flintoff",
+      "predicted_answer": "There is no former cricket player on the cast of the show Cannonball. The show is an adventure drama series about two truckers and their adventures, and the cast consists of Paul Birch, William Campbell, Beth Lockerbie, Beth Morris, Steve Barringer, and Howard Milsom.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Cannonball (TV series) - Wikipedia: Cannonball (TV series) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 Synopsis 2 Main cast 3 Episode list 4 Theme music 5 References 6 External links Toggle the table ...",
+        "Cannonball (TV Series 1958-1959) - Full cast & crew - IMDb: Cannonball (TV Series 1958–1959) - Full cast & crew - IMDb Menu Movies Release calendar Top 250 movies Most popular movies Browse movies by genre Top box office Showtimes & tickets Movie news India movie spotlight TV shows What's on TV & streaming Top 250 TV shows Most popular TV shows Browse TV shows by genre TV news Watch What to watch Latest trailers IMDb Originals IMDb Picks IMDb Spotlight Family entertainment guide IMDb Podcasts Awards & events Oscars Scary Good Horror Halloween Family Fun ...",
+        "Cannonball - Cast & Crew — The Movie Database (TMDB): Cannonball (TV Series 1958-1959) - Cast & Crew — The Movie Database (TMDB) Movies Popular Now Playing Upcoming Top Rated TV Shows Popular Airing Today On TV Top Rated People Popular More Discussions Leaderboard Support API Documentation API for Business tw Login Join TMDB Overview Main Alternative Titles Cast & Crew Episode Groups Seasons Translations Changes Media Backdrops 1 Logos 0 Posters 1 Videos Login to Add a Video Fandom Discussions Overview General 0 Content Issues 0 Reviews Share Share..."
+      ],
+      "initial_time_sec": 9.009635739959776,
+      "rag_time_sec": 51.798123262124136,
+      "total_time_sec": 60.80775900208391
+    },
+    {
+      "question": "The village that is served by The Hastings-on-Hudson Metro-North Railroad station is in what New York county?",
+      "gold_answer": "Westchester County",
+      "predicted_answer": "Westchester County",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Wikipedia Hastings-on-Hudson, New York - Wikipedia: Hastings-on-Hudson, New York - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 Pre-1920 1.2 1920–recent 2 Geography Toggle Geography...",
+        "Wikipedia Hastings-on-Hudson station - Wikipedia: Hastings-on-Hudson station - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Station layout 3 References 4 External links Toggle the table of contents Hastings-...",
+        "Wikipedia Hudson Line (Metro-North) - Wikipedia: Hudson Line (Metro-North) - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History Toggle History subsection 1.1 New York Central 1.2 Realignment and electrification 1.3..."
+      ],
+      "initial_time_sec": 11.506550566060469,
+      "rag_time_sec": 7.329597749048844,
+      "total_time_sec": 18.836148315109313
+    },
+    {
+      "question": "In which county is this census-designated place, (CDP) where Whaleman Foundation is based, located?",
+      "gold_answer": "Maui County",
+      "predicted_answer": "The Whaleman Foundation is based in the CDP of Avalon, which is located in Santa Rosa County, Florida.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": true,
+      "retrieved_context": [
+        "Wikipedia Census-designated place - Wikipedia: Census-designated place - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 History 2 Effects of designation and examples 3 Purpose of designation 4 Criteria for determinin...",
+        "Wikipedia List of census-designated places in New York - Wikipedia: List of census-designated places in New York - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of census-designated places in New York 1 language Español Edit links Article Talk English Read Edit View hi...",
+        "Wikipedia List of census-designated places in Florida - Wikipedia: List of census-designated places in Florida - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in List of census-designated places in Florida 1 language Română Edit links Article Talk English Read Edit View histo..."
+      ],
+      "initial_time_sec": 6.196348818950355,
+      "rag_time_sec": 47.89671818492934,
+      "total_time_sec": 54.093067003879696
+    }
+  ],
+  "summary": {
+    "total_samples": 10,
+    "total_time_sec": 378.9766232392285,
+    "average_time_sec": 37.89766232392285,
+    "average_initial_time_sec": 9.353718974208459,
+    "average_rag_time_sec": 28.54394334971439
+  }
+}

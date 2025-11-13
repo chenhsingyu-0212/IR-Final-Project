@@ -1,0 +1,131 @@
+{
+  "results": [
+    {
+      "question": "Tachu Naito was the father of earthquake-proof design, and built many broadcasting and observation towers, including what communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan?",
+      "gold_answer": "Tokyo Tower",
+      "predicted_answer": "Tokyo Tower",
+      "initial_answer": "Tokyo Tower",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 13.63044972694479,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 13.63044972694479
+    },
+    {
+      "question": "Interstate 80 runs from San Francisco, California to which county of New Jersey?",
+      "gold_answer": "Bergen County",
+      "predicted_answer": "Mercer County",
+      "initial_answer": "Mercer County",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 13.739958516089246,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 13.739958516089246
+    },
+    {
+      "question": "What is the name of the city where English Rock band Elbow produced 'Leaders of the Free World' and is also where the city of Salford is located?",
+      "gold_answer": "Greater Manchester",
+      "predicted_answer": "Manchester",
+      "initial_answer": "Manchester",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 11.770261630881578,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 11.770261630881578
+    },
+    {
+      "question": "Where was the theme park directed by Nicholas William Robert Thompson that won best theme park in the United Kingdom and the ninth best park in Europe by the Travelers' choice awards located?",
+      "gold_answer": "Fylde coast in Blackpool, Lancashire, England.",
+      "predicted_answer": "Alton Towers",
+      "initial_answer": "Alton Towers",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 15.120148448972031,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 15.120148448972031
+    },
+    {
+      "question": "Licensed to Kill and Stations of the Elevated are both what?",
+      "gold_answer": "documentary",
+      "predicted_answer": "Licensed to Kill and Stations of the Elevated are both titles of different works.\nLicensed to Kill is a 1987 James Bond film starring Timothy Dalton as James Bond.\nStations of the Elevated is a 1981 documentary film by Manfred Thierry Mugler and Jean-Paul Goude.",
+      "initial_answer": "Licensed to Kill and Stations of the Elevated are both titles of different works.\nLicensed to Kill is a 1987 James Bond film starring Timothy Dalton as James Bond.\nStations of the Elevated is a 1981 documentary film by Manfred Thierry Mugler and Jean-Paul Goude.",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 80.22243674006313,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 80.22243674006313
+    },
+    {
+      "question": "Molini di Triora is a municipality in the italian region located in which part of Italy ?",
+      "gold_answer": "north-western Italy",
+      "predicted_answer": "Molini di Triora is a municipality in the Italian region of Liguria.",
+      "initial_answer": "Molini di Triora is a municipality in the Italian region of Liguria.",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 27.137100973865017,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 27.137100973865017
+    },
+    {
+      "question": "The Congress of Afrikan people which later became the Revolutionary Communist League was lead by an African-American writer who recieved the PAN Open Book Award in 2008 for what?",
+      "gold_answer": "Tales of the Out and the Gone",
+      "predicted_answer": "The Autobiography of Malcolm X",
+      "initial_answer": "The Autobiography of Malcolm X",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 18.25796544482,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 18.25796544482
+    },
+    {
+      "question": "Who is the former cricket player on the cast of the show Cannonball?",
+      "gold_answer": "Andrew \"Freddie\" Flintoff",
+      "predicted_answer": "Cannonball is a reality TV show and does not have a cast of former cricket players.",
+      "initial_answer": "Cannonball is a reality TV show and does not have a cast of former cricket players.",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 27.52903599012643,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 27.52903599012643
+    },
+    {
+      "question": "The village that is served by The Hastings-on-Hudson Metro-North Railroad station is in what New York county?",
+      "gold_answer": "Westchester County",
+      "predicted_answer": "Westchester",
+      "initial_answer": "Westchester",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 12.712006041081622,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 12.712006041081622
+    },
+    {
+      "question": "In which county is this census-designated place, (CDP) where Whaleman Foundation is based, located?",
+      "gold_answer": "Maui County",
+      "predicted_answer": "San Diego County",
+      "initial_answer": "San Diego County",
+      "confidence": 1.0,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 14.446099058026448,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 14.446099058026448
+    }
+  ],
+  "summary": {
+    "total_samples": 10,
+    "total_time_sec": 234.5654625708703,
+    "average_time_sec": 23.45654625708703,
+    "average_initial_time_sec": 23.45654625708703,
+    "average_rag_time_sec": 0.0
+  }
+}

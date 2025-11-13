@@ -1,0 +1,129 @@
+{
+  "results": [
+    {
+      "question": "Tachu Naito was the father of earthquake-proof design, and built many broadcasting and observation towers, including what communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan?",
+      "gold_answer": "Tokyo Tower",
+      "predicted_answer": "Tokyo Tower\n\nTachu Naito was indeed a renowned structural engineer, but it was Kunio Maekawa who designed the Tokyo Tower. The Tokyo Tower, standing at 333 meters tall, is a communications and observation tower located in the Shiba-koen district of Minato, Tokyo, Japan. It was completed in 1958 and is a symbol of Tokyo, similar to the Eiffel Tower in Paris.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 85.40407271892764,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 85.40407271892764
+    },
+    {
+      "question": "Interstate 80 runs from San Francisco, California to which county of New Jersey?",
+      "gold_answer": "Bergen County",
+      "predicted_answer": "Union County, New Jersey\n\nInterstate 80 (I-80) is a major east-west transcontinental freeway in the United States that runs from San Francisco, California, to Teaneck, New Jersey. The eastern terminus of I-80 is located at the intersection of I-95 and US 46 in Teaneck, New Jersey, which is in Union County. Union County is one of the 21 counties in the state of New Jersey. It is located in the northeastern part of the state and is part of the New York metropolitan area.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 111.68612627498806,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 111.68612627498806
+    },
+    {
+      "question": "What is the name of the city where English Rock band Elbow produced 'Leaders of the Free World' and is also where the city of Salford is located?",
+      "gold_answer": "Greater Manchester",
+      "predicted_answer": "Manchester\n\nThe English rock band Elbow produced the album 'Leaders of the Free World' in the city of Manchester, which is also the location of Salford. Manchester is a major city in Northwest England's Greater Manchester metropolitan area. It's known for its architecture, culture, science, and music scene. The band, formed in Bury, a town near Manchester, has been a significant part of the city's music history.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 86.21625772095285,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 86.21625772095285
+    },
+    {
+      "question": "Where was the theme park directed by Nicholas William Robert Thompson that won best theme park in the United Kingdom and the ninth best park in Europe by the Travelers' choice awards located?",
+      "gold_answer": "Fylde coast in Blackpool, Lancashire, England.",
+      "predicted_answer": "Alton Towers, located in Staffordshire, England, was the theme park directed by Nicholas William Robert Thompson that won the best theme park in the United Kingdom and the ninth best park in Europe by the Travelers' choice awards.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 43.01345925894566,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 43.01345925894566
+    },
+    {
+      "question": "Licensed to Kill and Stations of the Elevated are both what?",
+      "gold_answer": "documentary",
+      "predicted_answer": "Licensed to Kill and Stations of the Elevated are both novels.\n\nLicensed to Kill is a novel written by James Patterson and co-authored by Maxine Paetro, while Stations of the Elevated is a novel by New York City-based author and poet, Leslie Feinberg. Both novels are works of fiction and have been well-received by readers.\n\nLicensed to Kill is the 18th book in the Alex Cross series, featuring the protagonist, Dr. Alex Cross, a forensic psychologist and detective. The novel follows",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 111.63874161499552,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 111.63874161499552
+    },
+    {
+      "question": "Molini di Triora is a municipality in the italian region located in which part of Italy ?",
+      "gold_answer": "north-western Italy",
+      "predicted_answer": "Molini di Triora is a municipality in the Italian region of Liguria, specifically in the province of Imperia. It is located in the western part of Liguria, near the border with France.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 41.23502403916791,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 41.23502403916791
+    },
+    {
+      "question": "The Congress of Afrikan people which later became the Revolutionary Communist League was lead by an African-American writer who recieved the PAN Open Book Award in 2008 for what?",
+      "gold_answer": "Tales of the Out and the Gone",
+      "predicted_answer": "The African-American writer who led the Congress of Afrikan People and later became the Revolutionary Communist League was named Jeffrey B. Perry. He received the PEN Open Book Award in 2008 for his work \"Hubert Harrison: The Voice of Harlem Radicalism, 1883-1918.\" This book is a biography of Harrison, a prominent figure in the Harlem Renaissance and the early American civil rights movement.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 87.79918660898693,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 87.79918660898693
+    },
+    {
+      "question": "Who is the former cricket player on the cast of the show Cannonball?",
+      "gold_answer": "Andrew \"Freddie\" Flintoff",
+      "predicted_answer": "The former cricket player on the cast of the show Cannonball is Phil Tufnell. He is a former English cricketer who played for Middlesex and England. After his cricket career, he became a television presenter and appeared on various shows, including Cannonball.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 53.73975652689114,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 53.73975652689114
+    },
+    {
+      "question": "The village that is served by The Hastings-on-Hudson Metro-North Railroad station is in what New York county?",
+      "gold_answer": "Westchester County",
+      "predicted_answer": "Westchester County.\n\nThe Hastings-on-Hudson Metro-North Railroad station is located in the town of Hastings-on-Hudson, which is in Westchester County, New York. The station provides rail service to the Hudson Line, connecting the village to other cities and towns along the line, including New York City. The station is a popular transportation option for commuters and visitors alike, offering easy access to the city and other nearby destinations.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 90.04471577587537,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 90.04471577587537
+    },
+    {
+      "question": "In which county is this census-designated place, (CDP) where Whaleman Foundation is based, located?",
+      "gold_answer": "Maui County",
+      "predicted_answer": "The Whaleman Foundation is based in San Diego County, California.",
+      "initial_answer": null,
+      "confidence": null,
+      "used_retrieval": false,
+      "retrieved_context": [],
+      "initial_time_sec": 13.220269549870864,
+      "rag_time_sec": 0.0,
+      "total_time_sec": 13.220269549870864
+    }
+  ],
+  "summary": {
+    "total_samples": 10,
+    "total_time_sec": 723.997610089602,
+    "average_time_sec": 72.3997610089602
+  }
+}
